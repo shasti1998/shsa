@@ -19,4 +19,5 @@ void main()
 		
 	}
 	printf("\nTHE SUM OF ODD NOS FROM THE RANGE %d AND %d IS %d",min,max,sum2);
+	return0;
 }
